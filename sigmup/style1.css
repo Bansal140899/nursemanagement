@@ -1,0 +1,61 @@
+.form {
+       width:100%;
+       
+     height:740px;
+     background:red;
+     background: url('apple.jpg');
+    background-repeat:no-repeat;
+    background-size:100%;
+    }
+ h1{ text-align:center;
+     color:white;
+}
+.form2 {
+ 
+    margin:auto;
+    width:40%;
+    border:2px solid white;
+    border-radius:5px;
+    padding:25px;
+}
+
+ label{
+          color:white;
+         font-size: 16px;
+         font-family:sans-serif;
+         font-style:italic;
+}
+.button{
+  background:cyan;
+  color:teal;
+  text-align:center;
+  position:center;
+}
+.button:hover {
+              color:teal;
+              font-size:150%;
+}
+ 
+#ajay { 
+       
+        width:250px;
+        color:white;
+        padding:5px;
+        border:none;
+        border-bottom: 2px solid white;
+        background:none;
+}
+
+input[type=text] {
+  width: 100%;
+  color:white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid red;
+}
+
+input[type=email] {
+   color:white;
+}
